@@ -14,7 +14,7 @@ offend, direct, or explain. A paragraph has a _function_.
 "methods," or "subroutines." They bundle up expressions and statements to
 accomplish a task. Just as "Make a Sandwich" encompasses specific, "atomic"
 actions like like "get slice of bread," "get jelly," etc.,
-`retreive_avatar_image_for_user` encompasses logic like `if user_name == nil`
+`retrieve_avatar_image_for_user` encompasses logic like `if user_name == nil`
 or `if image_url == nil`
 
 To have code that is easy to read, debug, and maintain, we need to bundle
