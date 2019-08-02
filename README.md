@@ -15,7 +15,7 @@ offend, direct, or explain. A paragraph has a _function_.
 accomplish a task. Just as "Make a Sandwich" encompasses specific, "atomic"
 actions like like "get slice of bread," "get jelly," etc.,
 `retrieve_avatar_image_for_user` encompasses logic like `if user_name == nil`
-or `if image_url == nil`
+or `if image_url == nil`.
 
 To have code that is easy to read, debug, and maintain, we need to bundle
 collections of atomic activities into paragraphs that do work &mdash; methods.
@@ -36,7 +36,7 @@ novels (by Stephen King)."
 Abstraction is a perfectly natural part of learning to converse. When you're
 first learning to communicate, you don't know enough to start talking about
 abstractions. But as you learn about opposites, how things are similar (and
-how, perhaps one thing is dissimilar) you grow  in your ability to _abstract_
+how, perhaps one thing is dissimilar) you grow  in your ability to _abstract_.
 
 In fact the thing that makes most higher learning "higher" learning is that the
 discussion, work, and discovery is focused on working primarily with
