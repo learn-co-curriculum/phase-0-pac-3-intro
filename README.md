@@ -6,9 +6,12 @@
 
 ## Introduction
 
-A **paragraph** is a collection of sentences, aligned by a topic sentence and
-bundled up or closed by a closing sentence. A **paragraph** can persuade or
-offend, direct, or explain. A paragraph has a _function_.
+Before we jump into more code, let's think for a moment about something you
+encounter pretty much every day when you read a news article or email: the way
+we organize words to express and clarify meaning. For example, a **paragraph**
+is a collection of sentences, aligned by a topic sentence and bundled up or
+closed by a closing sentence. A **paragraph** can persuade or offend, direct, or
+explain. A paragraph has a _function_.
 
 "Code paragraphs" are called, depending on language, "functions," "procedures,"
 "methods," or "subroutines." They bundle up expressions and statements to
@@ -33,12 +36,12 @@ all collectively by the abstraction "New Yorkers." Books about a killer dog, a
 scary alter ego, and a scary clown can be _abstracted_ into the name "horror
 novels (by Stephen King)."
 
-Abstraction is a perfectly natural part of learning to converse. When you're
-first learning to communicate, you don't know enough to start talking about
-abstractions. But as you learn about opposites, how things are similar (and
-how, perhaps one thing is dissimilar) you grow  in your ability to _abstract_.
+Abstraction is a natural part of learning to converse. When you're first
+learning to communicate, you don't know enough to start talking about
+abstractions. But as you learn about opposites, how things are similar (and how
+perhaps one thing is dissimilar) you grow in your ability to _abstract_.
 
-In fact the thing that makes most higher learning "higher" learning is that the
+In fact, the thing that makes most higher learning "higher" learning is that the
 discussion, work, and discovery is focused on working primarily with
 abstractions over specifics (e.g. mathematics, physics, chemistry).
 
@@ -68,7 +71,7 @@ with labs. But now you know enough to do some pretty powerful stuff. Tests will
 confirm for both you and us that you're ***really*** getting the hang of
 this stuff. That's such an awesome feeling, we can't wait to share it with you!
 
-We have a specific lab that teaches how to solve a lab just a few
-lessons from now, so don't stress about it! We'll walk you through the first
-few and you're going to love getting the "green lights" just like the 
-thousands of students who have come before you!
+We have a specific lab that teaches how to solve a lab just a few lessons from
+now, so don't stress about it! We'll walk you through the first few and you're
+going to love getting the "green lights" just like the thousands of students who
+have come before you!
