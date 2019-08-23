@@ -47,12 +47,17 @@ Here's a few more "abstractions:"
 
 Abstraction is a natural part of learning to converse. When you're first
 learning to communicate, you don't know enough to start talking about
-abstractions. But as you learn about opposites, how things are similar (and how
-perhaps one thing is dissimilar) you grow in your ability to _abstract_.
+abstractions. You prefer to think about real, visible, tangible things. But as
+you learn about opposites, how things are similar (and how perhaps one thing is
+dissimilar) you grow in your ability to _abstract_.
 
-In fact, the thing that makes most higher learning "higher" learning is that the
-discussion, work, and discovery is focused on working primarily with
-abstractions over specifics (e.g. mathematics, physics, chemistry).
+In fact, the thing that makes most higher learning "higher" is that the
+discussion, work, and discovery is focused on uncovering general principles
+that allow us to predict how things will work more-or-less most of the time.
+Amazingly, this was considered a pretty revolutionary idea at the time when
+Galileo and Newton started doing it. The moment that natural philosophers
+started looking for these "general rules of how things work," science as we
+know it was born.
 
 ## Next Steps
 
