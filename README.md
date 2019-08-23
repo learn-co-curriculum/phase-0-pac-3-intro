@@ -26,16 +26,24 @@ calls these "methods."
 
 ## Abstraction
 
-This process of bundling up small atoms into a collective, non-specific name is
-called "abstraction." "Abstraction" comes from the Latin word for "to pull
-away." When we "abstract" we "zoom out" or "pull away" from the tiny details
-and refer to a larger collection, made up from those small details, by a
-"larger name."
+This process of bundling up small atoms into a _method_ is called
+"abstraction." "Abstraction" comes from the Latin word for "to pull away." When
+we're further away, many details are hard to see so only the most relevant
+shape of the general thing. For example, when you're on an airplane and are
+over a city the details of the mileage, what's in the cup holder, the make, or
+the model of the cars below are invisible, they're not _essential_. What is is
+the color of the little dots moving up and down the freeway. By abstracting we
+see what's more true _generally_.
 
-"Matt," "Lore," and "Kellye" are atomic individuals, but we can refer to them
-all collectively by the abstraction "New Yorkers." Books about a killer dog, a
-scary alter ego, and a scary clown can be _abstracted_ into the name "horror
-novels (by Stephen King)."
+Here's a few more "abstractions:"
+
+* "Matt," "Lore," and "Mohawk" are atomic individuals, but we can refer to them
+  all collectively by the abstraction, or they can be _abstracted_ into "New
+  Yorkers"
+* Books about a killer dog, a scary alter ego, and a scary clown can be
+  _abstracted_ into the name "horror novels (by Stephen King)"
+* Individuals with strange powers and (usually) strange clothing can be
+  _abstracted_ into "superheroes"
 
 Abstraction is a natural part of learning to converse. When you're first
 learning to communicate, you don't know enough to start talking about
