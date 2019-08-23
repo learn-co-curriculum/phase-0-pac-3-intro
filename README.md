@@ -21,7 +21,8 @@ actions like like "get slice of bread," "get jelly," etc.,
 or `if image_url == nil`.
 
 To have code that is easy to read, debug, and maintain, we need to bundle
-collections of atomic activities into paragraphs that do work &mdash; methods.
+collections of atomic activities into "code paragraphs" that do work. Ruby
+calls these "methods."
 
 ## Abstraction
 
