@@ -28,8 +28,8 @@ calls these "methods."
 
 This process of bundling up small atoms into a _method_ is called
 "abstraction." "Abstraction" comes from the Latin word for "to pull away." When
-we're further away, many details are hard to see so only the most relevant
-shape of the general thing. For example, when you're on an airplane and are
+we're further away, many details are hard to see. Only the most relevant
+shapes are recognizable. For example, when you're on an airplane and are
 over a city the details of the mileage, what's in the cup holder, the make, or
 the model of the cars below are invisible, they're not _essential_. What is is
 the color of the little dots moving up and down the freeway. By abstracting we
