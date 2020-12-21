@@ -16,8 +16,9 @@ explain. A paragraph has a _function_.
 "Code paragraphs" are called, depending on language, "functions," "procedures,"
 "methods," or "subroutines." They bundle up expressions and statements to
 accomplish a task. Just as "Make a Sandwich" encompasses specific, "atomic"
-actions like like "get slice of bread," "get jelly," etc.,
-`executeTransfer` encompasses logic like `if (accountStatus === "open")` or `if (userBalance >= transactionAmount)`.
+actions like like "get slice of bread," "get jelly," etc., `executeTransfer`
+encompasses logic like `if (accountStatus === "open")` or `if (userBalance >=
+transactionAmount)`.
 
 To have code that is easy to read, debug, and maintain, we need to bundle
 collections of atomic activities into "code paragraphs" that do work. JavaScript
@@ -36,7 +37,7 @@ abstracting we see what's true at a higher level, or more _generally_.
 
 Here are a few more "abstractions:"
 
-* "[Jerry Seinfeld](https://en.wikipedia.org/wiki/Jerry_Seinfeld)," "[Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg)," and "[Neil deGrasse Tyson]"(https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson) are atomic
+* "[Jerry Seinfeld](https://en.wikipedia.org/wiki/Jerry_Seinfeld)," "[Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg)," and "[Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)" are atomic
   individuals, but we can refer to them all collectively by the abstraction (or
   they can be _abstracted_ into) "famous New Yorkers"
 * Books about a killer dog, a scary alter ego, and a scary clown can be
