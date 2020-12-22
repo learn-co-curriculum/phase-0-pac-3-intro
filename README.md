@@ -63,7 +63,8 @@ know it was born.
 
 In Programming as Conversation 3, we'll learn to take our JavaScript
 _expressions_ and _statements_ and bundle them up into abstractions called
-_functions_.
+_functions_. Before we get to that, however, we first need to learn a little
+about _testing_ in JavaScript.
 
 [jerry]: https://en.wikipedia.org/wiki/Jerry_Seinfeld
 [ruth]: https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg
