@@ -37,9 +37,9 @@ abstracting we see what's true at a higher level, or more _generally_.
 
 Here are a few more "abstractions:"
 
-* "[Jerry Seinfeld][jerry]," "[Ruth Bader Ginsburg][ruth]," and "[Cardi
-  B][cardi]" are atomic individuals, but we can refer to them all collectively
-  by the abstraction (or they can be _abstracted_ into) "famous New Yorkers"
+* [Jerry Seinfeld][jerry], [Ruth Bader Ginsburg][ruth], and [Cardi B][cardi] are
+  atomic individuals, but we can refer to them all collectively by the
+  abstraction (or they can be _abstracted_ into) "famous New Yorkers"
 * Books about a killer dog, a scary alter ego, and a scary clown can be
   _abstracted_ into the name "horror novels (by Stephen King)"
 * Individuals with strange powers and (usually) strange clothing can be
