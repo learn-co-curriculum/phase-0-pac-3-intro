@@ -16,7 +16,7 @@ explain. A paragraph has a _function_.
 "Code paragraphs" are called, depending on language, "functions," "procedures,"
 "methods," or "subroutines." They bundle up expressions and statements to
 accomplish a task. Just as "Make a Sandwich" encompasses specific, "atomic"
-actions like like "get slice of bread," "get jelly," etc., `executeTransfer`
+actions like "get slice of bread," "get jelly," etc., `executeTransfer`
 encompasses logic like `if (accountStatus === "open")` or `if (accountBalance >=
 transactionAmount)`.
 
