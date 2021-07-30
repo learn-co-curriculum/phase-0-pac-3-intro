@@ -30,8 +30,8 @@ This process of bundling up small atoms into a _function_ is called
 "abstraction." "Abstraction" comes from the Latin word for "to pull away." When
 we're further away, many details are hard to see. Only the most relevant shapes
 are recognizable. For example, when you're on an airplane and are over a city
-the details of the cars below &mdash; the mileage, what's in the cup holder, the
-make or model &mdash; are invisible, they're not _essential_. But what we may be
+the details of the cars below — the mileage, what's in the cup holder, the
+make or model — are invisible, they're not _essential_. But what we may be
 able to see is the vehicle type (car vs. truck) or the color of the car. By
 abstracting we see what's true at a higher level, or more _generally_.
 
